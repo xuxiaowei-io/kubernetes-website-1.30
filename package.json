@@ -1,7 +1,7 @@
 {
   "name": "kubernetes-v1.30",
   "description": "Kubernetes v1.30 离线文档",
-  "version": "1.30.12",
+  "version": "1.30.13",
   "type": "module",
   "author": {
     "name": "徐晓伟",
